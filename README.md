@@ -2,9 +2,23 @@
 
 **Marketing strategist · Digital & e-commerce project lead · Founder of [MariCleo Studio](https://maricleo-studio.vercel.app/), France**
 
-I turn marketing methods into skills that AI agents can run on real projects: deciding what
-is worth building, finding the message, building the pages, getting found, launching paid
-campaigns. Each method is used on client work first and published here after.
+*En bref : je pilote des projets marketing et e-commerce de bout en bout, et je transforme
+mes méthodes en outils que des agents IA appliquent sur de vrais projets.*
+
+I run marketing and e-commerce projects end to end: positioning, websites, SEO, Google Ads,
+content, emailing and analytics. Then I turn each method into a skill an AI agent can run,
+so the next project goes faster without cutting corners.
+
+| At a glance | |
+|---|---|
+| Real projects | [Justvia](https://justvia.com/), a bilingual travel platform · [Garage Plamen](https://garage-plamen.vercel.app/), a local business site · my own studio site and podcast |
+| Tools I use | Google Ads, Search Console, GA4, Microsoft Clarity, Looker Studio, Brevo, Make, Zapier, WordPress, Claude Code, Codex |
+| Background | Chef de projet e-commerce (Bac+4, France) · PhD in biology, recognised in France as Bac+8 |
+| Languages | French, English, Ukrainian, Russian |
+
+## The method behind the skills
+
+Each method is used on client work first and published here after.
 
 ```mermaid
 flowchart LR
@@ -31,14 +45,14 @@ costs before anything gets built.
 | [build-multilanding](https://github.com/marynacleo/build-multilanding) | One brand, one codebase, many landing pages, each keeping one promise to one search intent. |
 | [ui-ux-seo-geo.skill](https://github.com/marynacleo/ui-ux-seo-geo.skill) | Reviews a page as a UX designer, an SEO strategist and an AI-search editor at once. |
 
+They work with Claude Code, OpenAI Codex and any tool that reads the Agent Skills format:
+copy a skill folder into your agent's skills directory and start a new session.
+
 ## Case study
 
 | Repository | What it shows |
 |---|---|
 | [google-ads-agent-safety-framework](https://github.com/marynacleo/google-ads-agent-safety-framework) | How an AI agent works in a real Google Ads account without ever spending money on its own: read-only by default, every change validated, then applied only after an exact human approval. |
-
-They work with Claude Code, OpenAI Codex and any tool that reads the Agent Skills format:
-copy a skill folder into your agent's skills directory and start a new session.
 
 ## How I build them
 
@@ -49,9 +63,8 @@ copy a skill folder into your agent's skills directory and start a new session.
 - **Your project stays yours.** The skills are generic; audiences, offers and proof live in
   your own files.
 
-## Elsewhere
+## Contact
 
 [MariCleo Studio](https://maricleo-studio.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/marynaskachek/) ·
-podcast [Le Marketing & Co](https://open.spotify.com/show/1MhULjywButujKHo4ds4BZ) ·
-I work in French, English, Ukrainian and Russian.
+podcast [Le Marketing & Co](https://open.spotify.com/show/1MhULjywButujKHo4ds4BZ)
