@@ -1,6 +1,6 @@
 # Maryna Skachek
 
-Marketing strategist and founder of **[MariCleo Studio](https://maricleo-studio.vercel.app/)**, France.
+**Marketing strategist · Digital & e-commerce project lead · Founder of [MariCleo Studio](https://maricleo-studio.vercel.app/), France**
 
 I turn marketing methods into skills that AI agents can run on real projects: deciding what
 is worth building, finding the message, building the pages, getting found, launching paid
